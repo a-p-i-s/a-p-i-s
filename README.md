@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Alexander. I work as a full-time web-developer. In my spare time I do open-sourcing (normally it is about 1-2 hours in the morning). Most of my open-source projects below 👇🏻 are focused on one thing - to help people learn 📚.
+
+- I’m currently working and testing on Web-Sites and Apps;
+- I’m learning: «You Dont Know JS», «Don’t Make Me Think», «How Google tests Software»;
 
 <!--
 **a-p-i-s/a-p-i-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
