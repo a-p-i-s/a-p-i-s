@@ -1,6 +1,6 @@
-### Hello.
+# Hello
 
-#### My name is Alexander.
+### My name is Alexander
 
-I work as a web-developer.  
+I am a Software Engineer.  
 You can contact me at Email.
